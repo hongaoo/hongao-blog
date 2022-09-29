@@ -1,0 +1,16 @@
+baseurl = "http://hongaoo.github.io"
+title = "hongaoo"
+theme = "hugo-coder"
+languagecode = "cn"
+defaultcontentlanguage = "en"
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
