@@ -1,8 +1,18 @@
 baseurl = "http://hongaoo.github.io"
 title = "hongaoo"
 theme = "hugo-coder"
-languagecode = "cn"
+languagecode = "en"
 defaultcontentlanguage = "en"
+
+[params]
+author = "Hong Ao"
+# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+description = "Hong Ao's personal website"
+keywords = "blog,developer,personal"
+#info = ["Full Stack DevOps", "Magician"]
+avatarURL = "images/avatar.jpg"
+#gravatar = "john.doe@example.com"
+dateFormat = "January 2, 2006"
 
 [taxonomies]
 category = "categories"
